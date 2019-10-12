@@ -18,7 +18,7 @@ LANPRO   Lanczos tridiagonalization with partial reorthogonalization
 
 
    The first input argument is either a real symmetric matrix, a struct with
-   components A.L and A.U or a string containing the name of an M-file which 
+   components A.L and A.U or a string containing the names of an M-file which 
    applies a linear operator to the columns of a given matrix.  In the latter
    case, the second input argument must be N, the order of the problem.
 
