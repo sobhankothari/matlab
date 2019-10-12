@@ -8,7 +8,7 @@ YALL1 is distributed under the terms of the GNU General Public License 3.0.
 
 http://www.gnu.org/copyleft/gpl.html
 
-Permission to use, copy, modify, and distribute this software for
+Permission to use, copy, modify,  and distribute this software for
 any purpose without fee is hereby granted, provided that this entire
 notice is included in all copies of any software which is or includes
 a copy or modification of this software and in all copies of the
